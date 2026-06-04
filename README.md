@@ -138,13 +138,13 @@ I'm passionate about leveraging **Artificial Intelligence** and **Machine Learni
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrfanKhan154&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/IrfanKhan154)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IrfanKhan154&theme=tokyonight&show_icons=true&hide_border=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanKhan154&theme=tokyonight&layout=compact)](https://github.com/IrfanKhan154)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrfanKhan154&theme=tokyonight&layout=compact&hide_border=true)
 
 </div>
 
@@ -172,7 +172,7 @@ I'm open to **freelance projects**, **collaborations**, and **opportunities** to
 
 **Freelance Work** • **Collaborations** • **Consulting** • **Learning Partnerships**
 
-<img src="https://komarev.com/ghpvc/?username=IrfanKhan154&style=flat-square&color=blue" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=IrfanKhan154&style=flat-square&color=blue)
 
 **⭐ Feel free to explore my repositories and reach out for collaboration!**
 
