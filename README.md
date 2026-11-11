@@ -1,179 +1,128 @@
-<!-- Header Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🤖+AI+Engineer;Generative+AI+Specialist;Agentic+AI+Developer;Data-Driven+Solutions" alt="Typing SVG" />
-</div>
-
----
-
-## 👋 Hello, I'm **Irfan Uddin**
-
-<div align="center">
-  <p>
-    <strong>Aspiring AI Engineer | Generative AI & Agentic AI Specialist | Data-Driven Solutions</strong>
-  </p>
-  <p>
-    BS Mathematics Student | AI Enthusiast | Building Intelligent Systems
-  </p>
-</div>
-
----
-
-## 🎯 About Me
-
-I'm passionate about leveraging **Artificial Intelligence** and **Machine Learning** to solve real-world problems. With a strong foundation in mathematics and deep expertise in generative AI and agentic systems, I create intelligent solutions that drive business value.
-
-- 🤖 **Specialization:** Generative AI, Agentic AI, LLMs, and RAG Systems
-- 🎓 **Education:** BS in Mathematics with focus on AI/ML applications
-- 💼 **Focus:** Building production-ready AI solutions for freelance clients
-- 🚀 **Goal:** Advancing AI capabilities and creating innovative solutions
-- 📊 **Data-Driven:** Python, SQL, and Power BI expertise
-
----
-
-## 💻 Technical Skills
-
 <div align="center">
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+# Irfan Uddin
 
-### AI/ML & Data Science
-![Generative AI](https://img.shields.io/badge/Generative%20AI-FF6B6B?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-blue?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-FF9900?style=for-the-badge)
+### AI Engineer · Agentic AI & LLM Applications · Python · Intelligent Automation
 
-### Frameworks & Tools
-![Scikit-learn](https://img.shields.io/badge/Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![RAG Systems](https://img.shields.io/badge/RAG%20Systems-9C27B0?style=for-the-badge)
-![AI Foundry](https://img.shields.io/badge/Microsoft%20AI%20Foundry-0078D4?style=for-the-badge)
+I build practical AI systems that connect language models with deterministic logic, trusted evidence, and useful software experiences.
 
-### Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-00C7FD?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/GitHub-IrfanKhan154-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IrfanKhan154)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Irfan%20Uddin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-uddin-b469a9382)
+[![Email](https://img.shields.io/badge/Email-Contact%20me-00A8E8?style=flat-square&logo=gmail&logoColor=white)](mailto:uddinirfan474@gmail.com)
 
 </div>
 
 ---
 
-## 🔥 Featured Projects
+## About me
+
+I am an AI Engineer and BS Mathematics graduate from the International Islamic University Islamabad. My work focuses on building practical applications with Generative AI, Agentic AI, LLMs, RAG systems, and intelligent automation. I use Python and SQL to turn analytical ideas into working software, combining model capabilities with validation, deterministic decision logic, and clear evidence. My mathematical background supports a structured approach to probability, statistics, reasoning, and problem-solving. I am especially interested in production-oriented AI applications that are useful, explainable, and reliable.
+
+## Technical skills
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### AI, machine learning & LLM engineering
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102A43?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-5B4B8A?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-6C4AB6?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM%20Applications-0078D4?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20Systems-00A8E8?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-0B7285?style=flat-square)
+
+### Frameworks, data & tools
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111)
+![Microsoft AI Foundry](https://img.shields.io/badge/Microsoft%20AI%20Foundry-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+## Featured projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### [DryRun AI](https://github.com/IrfanKhan154/dryrun-ai)
+
+Evidence-gated Python code analysis and sandbox execution. DryRun AI compares AI predictions with trusted runtime evidence without treating submitted program output as proof.
+
+- Restricted, bounded Docker execution
+- Deterministic policy and containment checks
+- Timeout, failure, cleanup, and evidence handling
+- Vultr Serverless Inference for analysis and planning
+
+**Stack:** Python · FastAPI · Docker · SQLite · Vultr Serverless Inference
+
+[Live demo](https://dryrun-ai-irfan.duckdns.org/)
+
+</td>
+<td width="33%" valign="top">
+
+### [HeatLens AI](https://github.com/IrfanKhan154/heatlens-ai)
+
+Evidence-grounded heat-risk scheduling that turns operational constraints and FortyGuard microclimate telemetry into ranked work windows and auditable decision traces.
+
+- Deterministic candidate-window generation
+- Evidence verification and quality diagnosis
+- Mathematical risk scoring and stable ranking
+- Gemini advisory with deterministic fallback
+
+**Stack:** React · Vite · FastAPI · Python · Gemini · FortyGuard
+
+[Live app](https://heatlens-ai.vercel.app/) · [API docs](https://heatlens-ai.onrender.com/docs)
+
+</td>
+<td width="33%" valign="top">
+
+### [ProofChain](https://github.com/IrfanKhan154/proofchain)
+
+An explainable AI auditing application that verifies claims against submitted evidence and produces structured, accountable verdicts.
+
+- Supported, partially supported, contradicted, and missing evidence
+- Evidence matching and claim-level reasoning
+- Deterministic numeric verification
+- Confidence-aware audit reports
+
+**Stack:** Next.js · React · Gemini API · Tailwind CSS · Vercel
+
+[Live demo](https://proofchain-beta.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+## Currently exploring
+
+- Production-ready Generative AI and LLM applications
+- More reliable Agentic AI architectures and tool use
+- Evidence-grounded RAG and evaluation workflows
+- AI workflow automation with deterministic guardrails
+- Deployment, observability, and software engineering practices for AI systems
+
+## GitHub snapshot
+
+No token-backed activity widgets are used here. These lightweight badges avoid the broken PAT-dependent cards previously shown on this profile.
+
+[![Followers](https://img.shields.io/github/followers/IrfanKhan154?style=flat-square&label=followers&color=00A8E8)](https://github.com/IrfanKhan154?tab=followers)
+[![Public repositories](https://img.shields.io/badge/Public%20repositories-View%20all-5B4B8A?style=flat-square&logo=github)](https://github.com/IrfanKhan154?tab=repositories)
+
+## Connect
+
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/irfan-uddin-b469a9382), [GitHub](https://github.com/IrfanKhan154), or [email](mailto:uddinirfan474@gmail.com).
+
+I am open to AI engineering projects, freelance collaborations, AI automation opportunities, open-source contributions, and thoughtful technical partnerships.
 
 <div align="center">
 
-### 🏆 **ScholarAgent-AI** | Agentic AI Study Assistant
-[![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/IrfanKhan154/ScholarAgent-AI)
-
-*AI-powered study assistant built with Microsoft AI Foundry for the Agents League Hackathon*
-
-**Features:**
-- 🤖 Agentic AI implementation with multi-task reasoning
-- 📚 PDF analysis and intelligent question answering
-- 🎯 Dynamic quiz generation
-- 🧠 Grounded AI reasoning for accurate responses
-
-**Tech:** `Python` `AI Agents` `LLMs` `RAG` `Microsoft AI Foundry`
-
----
-
-### 📊 **ECommerce Competitor Intelligence Tool** | Business Analytics
-[![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/IrfanKhan154/ECommerce-Competitor-Intelligence-Tool)
-
-*Data-driven competitive analysis platform for e-commerce businesses*
-
-**Features:**
-- 🔍 Real-time competitor data collection
-- 📈 Business intelligence analysis
-- 🎯 Actionable insights for strategy
-
-**Tech:** `Python` `Data Analysis` `SQL` `Business Intelligence`
-
----
-
-### 🔄 **ML Pipeline** | End-to-End Machine Learning
-[![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/IrfanKhan154/developershub-task2-ml-pipeline)
-
-*Complete machine learning workflow implementation*
-
-**Features:**
-- 🔧 Data preprocessing and feature engineering
-- 🤖 Model training and optimization
-- 📊 Performance evaluation
-
-**Tech:** `Python` `Scikit-learn` `Data Processing`
-
----
-
-### 🏷️ **Auto-Tagging System** | Generative AI NLP
-[![GitHub](https://img.shields.io/badge/View%20Project-000?style=for-the-badge&logo=github)](https://github.com/IrfanKhan154/developershub-task5-auto-tagging)
-
-*Intelligent automatic content tagging using generative models*
-
-**Features:**
-- 🤖 Generative AI-powered categorization
-- 🧠 NLP-based understanding
-- ⚡ Scalable tagging system
-
-**Tech:** `Python` `NLP` `Generative Models`
-
-</div>
-
----
-
-## 📈 What I'm Looking For
-
-<div align="center">
-
-| 🎯 | 💡 | 📚 | 🔗 |
-|---|---|---|---|
-| **Freelance Projects** | **Collaborations** | **Growth** | **Opportunities** |
-| AI/ML Solutions | Open-source Contrib. | Cutting-edge Tech | Real-world Impact |
-| Data Analysis | AI Projects | Skill Enhancement | Partnership |
-| Automation | Community | Innovation | Network |
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=IrfanKhan154&theme=tokyonight&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=IrfanKhan154&theme=tokyonight&layout=compact&hide_border=true)
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-### 📫 Let's Collaborate!
-
-I'm open to **freelance projects**, **collaborations**, and **opportunities** to build innovative AI solutions.
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uddinirfan474@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irfan-uddin-b469a9382)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrfanKhan154)
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Open to Opportunities
-
-**Freelance Work** • **Collaborations** • **Consulting** • **Learning Partnerships**
-
-![Profile Views](https://komarev.com/ghpvc/?username=IrfanKhan154&style=flat-square&color=blue)
-
-**⭐ Feel free to explore my repositories and reach out for collaboration!**
+*Building useful AI systems with clear reasoning, reliable evidence, and practical engineering.*
 
 </div>
